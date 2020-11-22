@@ -1,11 +1,11 @@
  /*  
 Author: Web D
 File Name: styles.css
-Date: 11/08/2020
+Date: 11/22/2020
 */
 
 /* CSS Reset */
-body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption {
+body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption, video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -16,7 +16,7 @@ body {
   background-color: #f6eee4;
 }
 
-img {
+img, video {
   display: block;
   max-width: 100%;
 }
