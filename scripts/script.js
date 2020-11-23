@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<!--
-Student Name: Web D Team
-File Name: script.js
-Date: 11/22/2020
--->
+//Student Name: Web D Team
+//File Name: script.js
+//Date: 11/22/2020
 
 //Global variables
 var answer = document.querySelector("#answer p");
